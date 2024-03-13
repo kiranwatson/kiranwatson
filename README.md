@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/kirangondela44](www.linkedin.com/in/kirangondela44)
+- 👨‍💻 All of my projects are available at [https://github.com/kiranwatson](https://github.com/kiranwatson)
 
 - 💬 Ask me about **Machine Learning, SQL**
 
